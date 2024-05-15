@@ -16,16 +16,17 @@ pageClass: device-page
 |     |     |
 |-----|-----|
 | Model | SGA01ZB  |
-| Vendor  | Feibit  |
+| Vendor  | [Feibit](/supported-devices/#v=Feibit)  |
 | Description | Combustible gas sensor |
 | Exposes | gas, linkquality |
-| Picture | ![Feibit SGA01ZB](https://www.zigbee2mqtt.io/images/devices/SGA01ZB.jpg) |
+| Picture | ![Feibit SGA01ZB](https://www.zigbee2mqtt.io/images/devices/SGA01ZB.png) |
 
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 
 
 <!-- Notes END: Do not edit below this line -->
+
 
 
 
